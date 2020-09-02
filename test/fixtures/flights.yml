@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  from: one
+  to: one
+  start_time: 2020-09-02 14:23:26
+  duration: MyString
+
+two:
+  from: two
+  to: two
+  start_time: 2020-09-02 14:23:26
+  duration: MyString
